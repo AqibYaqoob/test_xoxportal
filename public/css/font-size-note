@@ -1,0 +1,46 @@
+10px = 0.625rem
+12px = 0.75rem
+14px = 0.875rem
+16px = 1rem (base) //h6, p
+18px = 1.125rem
+20px = 1.25rem //h5
+24px = 1.5rem //h4
+28px = 1.75rem //h3
+30px = 1.875rem
+32px = 2rem //h2
+34px = 2.125rem
+36px = 2.25rem
+40px = 2.5rem //h1
+42px = 2.625rem
+44px = 2.75rem //h1.xp-title
+48px = 3rem
+50px = 3.125rem
+52px = 3.25rem
+56px = 3.5rem //h1.xp-title-lg
+60px = 3.75rem
+62px = 3.875rem
+64px = 4rem
+72px = 4.5rem //h1.xp-title-xl
+
+media queries
+1200px = 75rem //web //bootstrap xl
+1120px = 70rem
+1024px = 64rem
+992px = 62rem //tablet:horizontal //bootstrap lg
+864px = 54rem
+800px = 50rem
+768px = 48rem //tablet:vertical //bootstrap md
+640px = 40rem
+576px = 36rem //mobile:horizontal //bootstrap sm
+512px = 32rem 
+480px = 30rem
+320px = 20rem //mobile:vertical
+
+font weights
+200 = extra-light
+300 = light
+400 = regular
+500 = medium
+600 = semibold
+700 = bold
+900 = black
